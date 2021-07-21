@@ -1,2 +1,2 @@
 文档地址
-https://dtstack.yuque.com/easyv/go6dv8/qphtbu
+https://dtstack.yuque.com/docs/share/e7fed384-792a-4f06-aef3-0990110bec5f?# 《【1】如何实现单击表格某一列对外传参数》

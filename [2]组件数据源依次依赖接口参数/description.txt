@@ -1,2 +1,2 @@
 文档地址
-https://dtstack.yuque.com/easyv/go6dv8/gh82tf
+https://dtstack.yuque.com/docs/share/f9dd9e87-8431-49bc-834d-61c3c29d2c4f?# 《【2】组件数据源依次依赖接口参数》
