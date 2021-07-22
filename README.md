@@ -7,3 +7,5 @@
 # 配套文档地址
 https://dtstack.yuque.com/books/share/d8b1aa51-fae0-44a6-a53c-b31a088cf41d?# 《EasyV 客户常见问题汇总》
 
+# 免责申明
+由于平台的快速迭代和客户需求的不断发展，仓库中提及的组件案例demo也会随之变化，案例demo不免存在问题，请不要直接将仓库中的案例直接投入生产环境！
